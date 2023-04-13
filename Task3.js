@@ -1,0 +1,25 @@
+let perDetails = [
+    {
+       "name":"venkat",
+       "personalDetails":{
+          "studyDetails":[
+             {
+                "graduation":"Be",
+                "persentage":70
+             },
+             {
+                "secondhighetqualification":"Intermediate",
+                "persentage":90
+             },
+             {
+                "ssc":10,
+                "persentage":85,
+                "subjectsandpersentage":{
+                   "maths":70,
+                   "english":100
+                }
+             }
+          ]
+       }
+    }
+ ]

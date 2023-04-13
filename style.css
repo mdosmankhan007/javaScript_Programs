@@ -1,0 +1,15 @@
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+    box-sizing: border-box;
+  }
+  .div1{
+    height:100px;
+    width:100px;
+    margin-top:auto;
+    background-color: rgb(153, 122, 122);
+  }
